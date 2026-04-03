@@ -1,0 +1,559 @@
+--2026-04-02 19:05:29--  https://physionet.org/files/i-care/2.1/training/0313/
+Resolving physionet.org (physionet.org)... 18.18.42.54
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/index.html’
+
+                   physionet.org/files     [<=>                                                                         ]       0  --.-KB/s                                 physionet.org/files/     [ <=>                                                                        ]  20.48K  82.1KB/s               physionet.org/files/i-care/2.1/trainin     [  <=>                                                                       ]  20.48K  82.1KB/s    in 0.2s    
+
+Last-modified header missing -- time-stamps turned off.
+2026-04-02 19:05:30 (82.1 KB/s) - ‘physionet.org/files/i-care/2.1/training/0313/index.html’ saved [20968]
+
+Loading robots.txt; please ignore errors.
+--2026-04-02 19:05:30--  https://physionet.org/robots.txt
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+
+    The file is already fully retrieved; nothing to do.
+
+--2026-04-02 19:05:30--  https://physionet.org/files/i-care/2.1/training/0313/0313.txt
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 117 [text/plain]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/0313.txt’
+
+                   physionet.org/files   0%[                                                                            ]       0  --.-KB/s               physionet.org/files/i-care/2.1/trainin 100%[===========================================================================>]     117  --.-KB/s    in 0s      
+
+2026-04-02 19:05:31 (2.29 KB/s) - ‘physionet.org/files/i-care/2.1/training/0313/0313.txt’ saved [117/117]
+
+--2026-04-02 19:05:31--  https://physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.hea
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 162 [text/plain]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.hea’
+
+                   physionet.org/files   0%[                                                                            ]       0  --.-KB/s               physionet.org/files/i-care/2.1/trainin 100%[===========================================================================>]     162  --.-KB/s    in 0s      
+
+2026-04-02 19:05:31 (3.16 KB/s) - ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.hea’ saved [162/162]
+
+--2026-04-02 19:05:31--  https://physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.mat
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1260024 (1.2M) [text/plain]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.mat’
+
+                   physionet.org/files   0%[                                                                            ]       0  --.-KB/s                                 physionet.org/files/   2%[>                                                                           ]  31.63K  34.2KB/s                                physionet.org/files/i   2%[>                                                                           ]  31.63K  16.8KB/s                               physionet.org/files/i-   3%[=>                                                                          ]  47.63K  16.5KB/s                              physionet.org/files/i-c   5%[==>                                                                         ]  63.63K  16.0KB/s    eta 73s                  physionet.org/files/i-ca   6%[===>                                                                        ]  79.63K  15.6KB/s    eta 74s                 physionet.org/files/i-car   7%[====>                                                                       ]  95.63K  15.8KB/s    eta 74s                physionet.org/files/i-care   9%[=====>                                                                      ] 111.63K  15.5KB/s    eta 72s               physionet.org/files/i-care/  10%[======>                                                                     ] 127.63K  15.5KB/s    eta 71s              physionet.org/files/i-care/2  11%[=======>                                                                    ] 143.63K  16.9KB/s    eta 71s             physionet.org/files/i-care/2.  11%[=======>                                                                    ] 143.63K  15.2KB/s    eta 71s            physionet.org/files/i-care/2.1  12%[========>                                                                   ] 159.63K  15.1KB/s    eta 71s           physionet.org/files/i-care/2.1/  14%[=========>                                                                  ] 175.63K  15.2KB/s    eta 71s          physionet.org/files/i-care/2.1/t  15%[==========>                                                                 ] 191.63K  15.2KB/s    eta 68s         physionet.org/files/i-care/2.1/tr  16%[===========>                                                                ] 207.63K  16.2KB/s    eta 68s        physionet.org/files/i-care/2.1/tra  16%[===========>                                                                ] 207.63K  15.0KB/s    eta 68s       physionet.org/files/i-care/2.1/trai  18%[============>                                                               ] 223.63K  15.9KB/s    eta 68s      physionet.org/files/i-care/2.1/train  18%[============>                                                               ] 223.63K  14.9KB/s    eta 68s     physionet.org/files/i-care/2.1/traini  19%[=============>                                                              ] 239.63K  15.0KB/s    eta 66s    physionet.org/files/i-care/2.1/trainin  20%[==============>                                                             ] 255.63K  15.8KB/s    eta 66s    hysionet.org/files/i-care/2.1/training  20%[==============>                                                             ] 255.63K  14.9KB/s    eta 66s    ysionet.org/files/i-care/2.1/training/  22%[===============>                                                            ] 271.63K  14.9KB/s    eta 65s    sionet.org/files/i-care/2.1/training/0  23%[================>                                                           ] 287.63K  15.5KB/s    eta 65s    ionet.org/files/i-care/2.1/training/03  23%[================>                                                           ] 287.63K  14.8KB/s    eta 64s    onet.org/files/i-care/2.1/training/031  24%[=================>                                                          ] 303.63K  15.4KB/s    eta 64s    net.org/files/i-care/2.1/training/0313  24%[=================>                                                          ] 303.63K  14.7KB/s    eta 63s    et.org/files/i-care/2.1/training/0313/  25%[==================>                                                         ] 319.63K  14.7KB/s    eta 62s    t.org/files/i-care/2.1/training/0313/0  27%[===================>                                                        ] 335.63K  14.7KB/s    eta 61s    .org/files/i-care/2.1/training/0313/03  28%[====================>                                                       ] 351.63K  14.5KB/s    eta 61s    org/files/i-care/2.1/training/0313/031  28%[====================>                                                       ] 351.63K  13.9KB/s    eta 60s    rg/files/i-care/2.1/training/0313/0313  29%[=====================>                                                      ] 367.63K  14.3KB/s    eta 60s    g/files/i-care/2.1/training/0313/0313_  29%[=====================>                                                      ] 367.63K  13.7KB/s    eta 59s    /files/i-care/2.1/training/0313/0313_0  31%[======================>                                                     ] 383.63K  13.8KB/s    eta 58s    files/i-care/2.1/training/0313/0313_00  32%[=======================>                                                    ] 399.63K  14.3KB/s    eta 58s    iles/i-care/2.1/training/0313/0313_001  32%[=======================>                                                    ] 399.63K  13.7KB/s    eta 57s    les/i-care/2.1/training/0313/0313_001_  33%[========================>                                                   ] 415.63K  13.6KB/s    eta 56s    es/i-care/2.1/training/0313/0313_001_0  35%[=========================>                                                  ] 431.63K  14.1KB/s    eta 56s    s/i-care/2.1/training/0313/0313_001_00  35%[=========================>                                                  ] 431.63K  13.6KB/s    eta 55s    /i-care/2.1/training/0313/0313_001_004  36%[==========================>                                                 ] 447.63K  14.0KB/s    eta 55s    i-care/2.1/training/0313/0313_001_004_  36%[==========================>                                                 ] 447.63K  13.5KB/s    eta 54s    -care/2.1/training/0313/0313_001_004_E  37%[===========================>                                                ] 463.63K  13.5KB/s    eta 53s    care/2.1/training/0313/0313_001_004_EC  38%[============================>                                               ] 479.63K  14.1KB/s    eta 53s    are/2.1/training/0313/0313_001_004_ECG  38%[============================>                                               ] 479.63K  13.5KB/s    eta 52s    re/2.1/training/0313/0313_001_004_ECG.  40%[=============================>                                              ] 495.63K  13.9KB/s    eta 52s    e/2.1/training/0313/0313_001_004_ECG.m  40%[=============================>                                              ] 495.63K  13.4KB/s    eta 51s    /2.1/training/0313/0313_001_004_ECG.ma  41%[==============================>                                             ] 511.63K  13.8KB/s    eta 51s    2.1/training/0313/0313_001_004_ECG.mat  41%[==============================>                                             ] 511.63K  13.2KB/s    eta 50s    .1/training/0313/0313_001_004_ECG.mat   42%[===============================>                                            ] 527.63K  13.3KB/s    eta 49s    1/training/0313/0313_001_004_ECG.mat    44%[================================>                                           ] 543.63K  13.8KB/s    eta 49s    /training/0313/0313_001_004_ECG.mat     44%[================================>                                           ] 543.63K  13.3KB/s    eta 48s    training/0313/0313_001_004_ECG.mat      45%[=================================>                                          ] 559.63K  13.2KB/s    eta 47s    raining/0313/0313_001_004_ECG.mat       46%[==================================>                                         ] 575.63K  13.7KB/s    eta 47s    aining/0313/0313_001_004_ECG.mat        46%[==================================>                                         ] 575.63K  13.2KB/s    eta 46s    ining/0313/0313_001_004_ECG.mat         48%[===================================>                                        ] 591.63K  13.6KB/s    eta 46s    ning/0313/0313_001_004_ECG.mat          48%[===================================>                                        ] 591.63K  13.1KB/s    eta 45s    ing/0313/0313_001_004_ECG.mat           49%[====================================>                                       ] 607.63K  13.1KB/s    eta 44s    ng/0313/0313_001_004_ECG.mat            50%[=====================================>                                      ] 623.63K  13.7KB/s    eta 44s    g/0313/0313_001_004_ECG.mat             50%[=====================================>                                      ] 623.63K  13.1KB/s    eta 43s    /0313/0313_001_004_ECG.mat              51%[======================================>                                     ] 639.63K  13.5KB/s    eta 43s    0313/0313_001_004_ECG.mat               51%[======================================>                                     ] 639.63K  13.0KB/s    eta 42s    313/0313_001_004_ECG.mat                53%[=======================================>                                    ] 655.63K  13.4KB/s    eta 42s    13/0313_001_004_ECG.mat                 53%[=======================================>                                    ] 655.63K  12.9KB/s    eta 41s    3/0313_001_004_ECG.mat                  54%[========================================>                                   ] 671.63K  13.3KB/s    eta 41s    /0313_001_004_ECG.mat                   54%[========================================>                                   ] 671.63K  12.8KB/s    eta 40s    0313_001_004_ECG.mat                    55%[=========================================>                                  ] 687.63K  13.3KB/s    eta 40s    313_001_004_ECG.mat                     55%[=========================================>                                  ] 687.63K  12.8KB/s    eta 39s    13_001_004_ECG.mat                      57%[==========================================>                                 ] 703.63K  13.1KB/s    eta 39s    3_001_004_ECG.mat                       57%[==========================================>                                 ] 703.63K  12.6KB/s    eta 38s    _001_004_ECG.mat                        58%[===========================================>                                ] 719.63K  13.1KB/s    eta 38s    001_004_ECG.mat                         58%[===========================================>                                ] 719.63K  12.6KB/s    eta 37s    01_004_ECG.mat                          59%[============================================>                               ] 735.63K  13.0KB/s    eta 37s    1_004_ECG.mat                           59%[============================================>                               ] 735.63K  12.5KB/s    eta 36s    _004_ECG.mat                            61%[=============================================>                              ] 751.63K  13.0KB/s    eta 36s    004_ECG.mat                             61%[=============================================>                              ] 751.63K  12.5KB/s    eta 35s    04_ECG.mat                              62%[==============================================>                             ] 767.63K  12.6KB/s    eta 34s    4_ECG.mat                               63%[===============================================>                            ] 783.63K  12.9KB/s    eta 34s    _ECG.mat                                63%[===============================================>                            ] 783.63K  12.4KB/s    eta 32s    ECG.mat                                 64%[================================================>                           ] 799.63K  12.9KB/s    eta 32s    CG.mat                                  64%[================================================>                           ] 799.63K  12.4KB/s    eta 31s    G.mat                                   66%[=================================================>                          ] 815.63K  12.9KB/s    eta 31s    .mat                                    66%[=================================================>                          ] 815.63K  12.4KB/s    eta 30s    mat                                     67%[==================================================>                         ] 831.63K  12.8KB/s    eta 30s    at                                      67%[==================================================>                         ] 831.63K  12.4KB/s    eta 29s    t                                       68%[===================================================>                        ] 847.63K  12.4KB/s    eta 28s                                            70%[====================================================>                       ] 863.63K  12.9KB/s    eta 28s                                         p  70%[====================================================>                       ] 863.63K  12.4KB/s    eta 27s                                        ph  71%[=====================================================>                      ] 879.63K  12.8KB/s    eta 27s                                       phy  71%[=====================================================>                      ] 879.63K  12.3KB/s    eta 26s                                      phys  72%[======================================================>                     ] 895.63K  12.7KB/s    eta 26s                                     physi  72%[======================================================>                     ] 895.63K  12.3KB/s    eta 25s                                    physio  74%[=======================================================>                    ] 911.63K  12.3KB/s    eta 23s                                   physion  75%[========================================================>                   ] 927.63K  12.5KB/s    eta 23s                                  physione  75%[========================================================>                   ] 927.63K  12.1KB/s    eta 22s                                 physionet  76%[=========================================================>                  ] 943.63K  12.1KB/s    eta 21s                                physionet.  77%[==========================================================>                 ] 959.63K  12.6KB/s    eta 21s                               physionet.o  77%[==========================================================>                 ] 959.63K  12.1KB/s    eta 20s                              physionet.or  79%[===========================================================>                ] 975.63K  12.6KB/s    eta 20s                             physionet.org  79%[===========================================================>                ] 975.63K  12.1KB/s    eta 19s                            physionet.org/  80%[============================================================>               ] 991.63K  12.6KB/s    eta 19s                           physionet.org/f  80%[============================================================>               ] 991.63K  12.1KB/s    eta 18s                          physionet.org/fi  81%[=============================================================>              ]   1008K  12.5KB/s    eta 18s                         physionet.org/fil  81%[=============================================================>              ]   1008K  12.1KB/s    eta 17s                        physionet.org/file  83%[==============================================================>             ]   1024K  12.6KB/s    eta 17s                       physionet.org/files  83%[==============================================================>             ]   1024K  12.1KB/s    eta 15s                      physionet.org/files/  84%[===============================================================>            ]   1.01M  12.6KB/s    eta 15s                     physionet.org/files/i  84%[===============================================================>            ]   1.01M  12.1KB/s    eta 14s                    physionet.org/files/i-  85%[================================================================>           ]   1.03M  12.6KB/s    eta 14s                   physionet.org/files/i-c  85%[================================================================>           ]   1.03M  12.2KB/s    eta 13s                  physionet.org/files/i-ca  87%[=================================================================>          ]   1.05M  12.6KB/s    eta 13s                 physionet.org/files/i-car  87%[=================================================================>          ]   1.05M  12.1KB/s    eta 12s                physionet.org/files/i-care  88%[==================================================================>         ]   1.06M  12.1KB/s    eta 11s               physionet.org/files/i-care/  89%[===================================================================>        ]   1.08M  12.6KB/s    eta 11s              physionet.org/files/i-care/2  89%[===================================================================>        ]   1.08M  12.2KB/s    eta 9s              physionet.org/files/i-care/2.  90%[====================================================================>       ]   1.09M  12.6KB/s    eta 9s             physionet.org/files/i-care/2.1  90%[====================================================================>       ]   1.09M  12.1KB/s    eta 8s            physionet.org/files/i-care/2.1/  92%[=====================================================================>      ]   1.11M  12.6KB/s    eta 8s           physionet.org/files/i-care/2.1/t  92%[=====================================================================>      ]   1.11M  12.1KB/s    eta 7s          physionet.org/files/i-care/2.1/tr  93%[======================================================================>     ]   1.12M  12.2KB/s    eta 6s         physionet.org/files/i-care/2.1/tra  94%[=======================================================================>    ]   1.14M  12.5KB/s    eta 6s        physionet.org/files/i-care/2.1/trai  94%[=======================================================================>    ]   1.14M  12.1KB/s    eta 5s       physionet.org/files/i-care/2.1/train  96%[========================================================================>   ]   1.16M  12.6KB/s    eta 5s      physionet.org/files/i-care/2.1/traini  96%[========================================================================>   ]   1.16M  12.1KB/s    eta 4s     physionet.org/files/i-care/2.1/trainin  97%[=========================================================================>  ]   1.17M  12.5KB/s    eta 4s     hysionet.org/files/i-care/2.1/training  97%[=========================================================================>  ]   1.17M  12.1KB/s    eta 2s     ysionet.org/files/i-care/2.1/training/  98%[==========================================================================> ]   1.19M  12.6KB/s    eta 2s     sionet.org/files/i-care/2.1/training/0  98%[==========================================================================> ]   1.19M  12.1KB/s    eta 1s     physionet.org/files/i-care/2.1/trainin 100%[===========================================================================>]   1.20M  12.6KB/s    in 91s     
+
+2026-04-02 19:07:03 (13.5 KB/s) - ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_ECG.mat’ saved [1260024/1260024]
+
+--2026-04-02 19:07:03--  https://physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.hea
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1417 (1.4K) [text/plain]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.hea’
+
+                   physionet.org/files   0%[                                                                            ]       0  --.-KB/s               physionet.org/files/i-care/2.1/trainin 100%[===========================================================================>]   1.38K  --.-KB/s    in 0s      
+
+2026-04-02 19:07:03 (104 MB/s) - ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.hea’ saved [1417/1417]
+
+--2026-04-02 19:07:03--  https://physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.mat
+Reusing existing connection to physionet.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23940024 (23M) [text/plain]
+Saving to: ‘physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.mat’
+
+                   physionet.org/files   0%[                                                                            ]       0  --.-KB/s                                 physionet.org/files/   0%[                                                                            ]  15.63K  --.-KB/s                                physionet.org/files/i   0%[                                                                            ]  31.63K  26.4KB/s                               physionet.org/files/i-   0%[                                                                            ]  31.63K  14.7KB/s                              physionet.org/files/i-c   0%[                                                                            ]  47.63K  18.9KB/s                             physionet.org/files/i-ca   0%[                                                                            ]  47.63K  13.7KB/s    eta 28m 19s             physionet.org/files/i-car   0%[                                                                            ]  63.63K  16.6KB/s    eta 28m 19s            physionet.org/files/i-care   0%[                                                                            ]  63.63K  13.3KB/s    eta 29m 11s           physionet.org/files/i-care/   0%[                                                                            ]  79.63K  13.5KB/s    eta 28m 41s          physionet.org/files/i-care/2   0%[                                                                            ]  95.63K  15.5KB/s    eta 28m 41s         physionet.org/files/i-care/2.   0%[                                                                            ]  95.63K  13.5KB/s    eta 28m 50s        physionet.org/files/i-care/2.1   0%[                                                                            ] 111.63K  14.9KB/s    eta 28m 50s       physionet.org/files/i-care/2.1/   0%[                                                                            ] 111.63K  13.3KB/s    eta 29m 15s      physionet.org/files/i-care/2.1/t   0%[                                                                            ] 127.63K  14.5KB/s    eta 29m 15s     physionet.org/files/i-care/2.1/tr   0%[                                                                            ] 127.63K  13.1KB/s    eta 29m 35s    physionet.org/files/i-care/2.1/tra   0%[                                                                            ] 143.63K  13.3KB/s    eta 29m 8s    physionet.org/files/i-care/2.1/trai   0%[                                                                            ] 159.63K  14.4KB/s    eta 29m 8s   physionet.org/files/i-care/2.1/train   0%[                                                                            ] 159.63K  13.2KB/s    eta 29m 15s physionet.org/files/i-care/2.1/traini   0%[                                                                            ] 175.63K  14.3KB/s    eta 29m 15sphysionet.org/files/i-care/2.1/trainin   0%[                                                                            ] 175.63K  13.3KB/s    eta 29m 10shysionet.org/files/i-care/2.1/training   0%[                                                                            ] 191.63K  14.1KB/s    eta 29m 10sysionet.org/files/i-care/2.1/training/   0%[                                                                            ] 191.63K  13.2KB/s    eta 29m 20ssionet.org/files/i-care/2.1/training/0   0%[                                                                            ] 207.63K  13.9KB/s    eta 29m 20sionet.org/files/i-care/2.1/training/03   0%[                                                                            ] 207.63K  13.1KB/s    eta 29m 28sonet.org/files/i-care/2.1/training/031   0%[                                                                            ] 223.63K  13.2KB/s    eta 29m 12snet.org/files/i-care/2.1/training/0313   1%[                                                                            ] 239.63K  14.0KB/s    eta 29m 12set.org/files/i-care/2.1/training/0313/   1%[                                                                            ] 239.63K  13.3KB/s    eta 29m 6s t.org/files/i-care/2.1/training/0313/0   1%[                                                                            ] 255.63K  13.9KB/s    eta 29m 6s .org/files/i-care/2.1/training/0313/03   1%[                                                                            ] 255.63K  13.2KB/s    eta 29m 13sorg/files/i-care/2.1/training/0313/031   1%[                                                                            ] 271.63K  13.8KB/s    eta 29m 13srg/files/i-care/2.1/training/0313/0313   1%[                                                                            ] 271.63K  13.1KB/s    eta 29m 19sg/files/i-care/2.1/training/0313/0313_   1%[                                                                            ] 287.63K  13.2KB/s    eta 29m 5s /files/i-care/2.1/training/0313/0313_0   1%[                                                                            ] 303.63K  13.8KB/s    eta 29m 5s files/i-care/2.1/training/0313/0313_00   1%[                                                                            ] 303.63K  13.2KB/s    eta 29m 8s iles/i-care/2.1/training/0313/0313_001   1%[>                                                                           ] 319.63K  13.8KB/s    eta 29m 8s les/i-care/2.1/training/0313/0313_001_   1%[>                                                                           ] 319.63K  13.2KB/s    eta 29m 3s es/i-care/2.1/training/0313/0313_001_0   1%[>                                                                           ] 335.63K  13.7KB/s    eta 29m 3s s/i-care/2.1/training/0313/0313_001_00   1%[>                                                                           ] 335.63K  13.2KB/s    eta 29m 5s /i-care/2.1/training/0313/0313_001_004   1%[>                                                                           ] 351.63K  13.0KB/s    eta 29m 5s i-care/2.1/training/0313/0313_001_004_   1%[>                                                                           ] 351.63K  12.6KB/s    eta 29m 7s -care/2.1/training/0313/0313_001_004_E   1%[>                                                                           ] 367.63K  12.7KB/s    eta 28m 56scare/2.1/training/0313/0313_001_004_EE   1%[>                                                                           ] 383.63K  12.8KB/s    eta 28m 50sare/2.1/training/0313/0313_001_004_EEG   1%[>                                                                           ] 399.63K  13.2KB/s    eta 28m 50sre/2.1/training/0313/0313_001_004_EEG.   1%[>                                                                           ] 399.63K  12.7KB/s    eta 28m 52se/2.1/training/0313/0313_001_004_EEG.m   1%[>                                                                           ] 415.63K  13.2KB/s    eta 28m 52s/2.1/training/0313/0313_001_004_EEG.ma   1%[>                                                                           ] 415.63K  12.7KB/s    eta 28m 53s2.1/training/0313/0313_001_004_EEG.mat   1%[>                                                                           ] 431.63K  12.8KB/s    eta 28m 42s.1/training/0313/0313_001_004_EEG.mat    1%[>                                                                           ] 447.63K  13.4KB/s    eta 28m 42s1/training/0313/0313_001_004_EEG.mat     1%[>                                                                           ] 447.63K  12.9KB/s    eta 28m 43s/training/0313/0313_001_004_EEG.mat      1%[>                                                                           ] 463.63K  12.8KB/s    eta 28m 39straining/0313/0313_001_004_EEG.mat       2%[>                                                                           ] 479.63K  13.4KB/s    eta 28m 39sraining/0313/0313_001_004_EEG.mat        2%[>                                                                           ] 479.63K  12.9KB/s    eta 28m 38saining/0313/0313_001_004_EEG.mat         2%[>                                                                           ] 495.63K  13.3KB/s    eta 28m 38sining/0313/0313_001_004_EEG.mat          2%[>                                                                           ] 495.63K  12.8KB/s    eta 28m 39sning/0313/0313_001_004_EEG.mat           2%[>                                                                           ] 511.63K  13.0KB/s    eta 28m 29sing/0313/0313_001_004_EEG.mat            2%[>                                                                           ] 527.63K  13.1KB/s    eta 28m 24sng/0313/0313_001_004_EEG.mat             2%[>                                                                           ] 543.63K  13.5KB/s    eta 28m 24sg/0313/0313_001_004_EEG.mat              2%[>                                                                           ] 543.63K  13.0KB/s    eta 28m 23s/0313/0313_001_004_EEG.mat               2%[>                                                                           ] 559.63K  13.5KB/s    eta 28m 23s0313/0313_001_004_EEG.mat                2%[>                                                                           ] 559.63K  13.0KB/s    eta 28m 23s313/0313_001_004_EEG.mat                 2%[>                                                                           ] 575.63K  13.2KB/s    eta 28m 14s13/0313_001_004_EEG.mat                  2%[>                                                                           ] 591.63K  13.8KB/s    eta 28m 14s3/0313_001_004_EEG.mat                   2%[>                                                                           ] 591.63K  13.2KB/s    eta 28m 11s/0313_001_004_EEG.mat                    2%[>                                                                           ] 607.63K  13.2KB/s    eta 28m 7s 0313_001_004_EEG.mat                     2%[=>                                                                          ] 623.63K  13.8KB/s    eta 28m 7s 313_001_004_EEG.mat                      2%[=>                                                                          ] 623.63K  13.2KB/s    eta 28m 7s 13_001_004_EEG.mat                       2%[=>                                                                          ] 639.63K  13.8KB/s    eta 28m 7s 3_001_004_EEG.mat                        2%[=>                                                                          ] 639.63K  13.2KB/s    eta 28m 6s _001_004_EEG.mat                         2%[=>                                                                          ] 655.63K  13.4KB/s    eta 27m 58s001_004_EEG.mat                          2%[=>                                                                          ] 671.63K  13.5KB/s    eta 27m 54s01_004_EEG.mat                           2%[=>                                                                          ] 687.63K  13.9KB/s    eta 27m 54s1_004_EEG.mat                            2%[=>                                                                          ] 687.63K  13.4KB/s    eta 27m 53s_004_EEG.mat                             3%[=>                                                                          ] 703.63K  13.9KB/s    eta 27m 53s004_EEG.mat                              3%[=>                                                                          ] 703.63K  13.3KB/s    eta 27m 52s04_EEG.mat                               3%[=>                                                                          ] 719.63K  13.5KB/s    eta 27m 52s4_EEG.mat                                3%[=>                                                                          ] 735.63K  14.1KB/s    eta 27m 13s_EEG.mat                                 3%[=>                                                                          ] 735.63K  13.6KB/s    eta 27m 13sEEG.mat                                  3%[=>                                                                          ] 751.63K  13.5KB/s    eta 27m 38sEG.mat                                   3%[=>                                                                          ] 767.63K  13.6KB/s    eta 27m 36sG.mat                                    3%[=>                                                                          ] 783.63K  14.1KB/s    eta 27m 36s.mat                                     3%[=>                                                                          ] 783.63K  13.6KB/s    eta 27m 35smat                                      3%[=>                                                                          ] 799.63K  13.7KB/s    eta 27m 35sat                                       3%[=>                                                                          ] 815.63K  13.8KB/s    eta 27m 23st                                        3%[=>                                                                          ] 831.63K  13.8KB/s    eta 27m 21s                                         3%[=>                                                                          ] 863.63K  14.5KB/s    eta 26m 47s                                     p   3%[=>                                                                          ] 863.63K  13.9KB/s    eta 26m 47s                                    ph   3%[=>                                                                          ] 879.63K  14.0KB/s    eta 27m 9s                                    phy   3%[=>                                                                          ] 895.63K  14.0KB/s    eta 27m 4s                                   phys   3%[=>                                                                          ] 911.63K  14.0KB/s    eta 27m 1s                                  physi   4%[==>                                                                         ] 943.63K  14.8KB/s    eta 26m 30s                                physio   4%[==>                                                                         ] 943.63K  14.2KB/s    eta 26m 30s                               physion   4%[==>                                                                         ] 959.63K  14.3KB/s    eta 26m 48s                              physione   4%[==>                                                                         ] 975.63K  14.3KB/s    eta 26m 45s                             physionet   4%[==>                                                                         ]   1008K  15.1KB/s    eta 26m 15s                            physionet.   4%[==>                                                                         ]   1008K  14.5KB/s    eta 26m 15s                           physionet.o   4%[==>                                                                         ]   1024K  14.5KB/s    eta 26m 33s                          physionet.or   4%[==>                                                                         ]   1.01M  14.5KB/s    eta 26m 33s                         physionet.org   4%[==>                                                                         ]   1.03M  14.6KB/s    eta 26m 26s                        physionet.org/   4%[==>                                                                         ]   1.06M  15.5KB/s    eta 26m 26s                       physionet.org/f   4%[==>                                                                         ]   1.08M  15.6KB/s    eta 25m 52s                      physionet.org/fi   4%[==>                                                                         ]   1.08M  14.9KB/s    eta 25m 52s                     physionet.org/fil   4%[==>                                                                         ]   1.09M  14.9KB/s    eta 26m 9s                     physionet.org/file   4%[==>                                                                         ]   1.12M  15.8KB/s    eta 26m 9s                    physionet.org/files   4%[==>                                                                         ]   1.12M  15.1KB/s    eta 25m 59s                  physionet.org/files/   4%[==>                                                                         ]   1.14M  15.1KB/s    eta 25m 57s                 physionet.org/files/i   5%[==>                                                                         ]   1.16M  15.1KB/s    eta 25m 57s                physionet.org/files/i-   5%[==>                                                                         ]   1.17M  15.2KB/s    eta 25m 50s               physionet.org/files/i-c   5%[===>                                                                        ]   1.20M  16.0KB/s    eta 25m 50s              physionet.org/files/i-ca   5%[===>                                                                        ]   1.20M  15.3KB/s    eta 25m 43s             physionet.org/files/i-car   5%[===>                                                                        ]   1.22M  15.4KB/s    eta 25m 43s            physionet.org/files/i-care   5%[===>                                                                        ]   1.23M  15.3KB/s    eta 25m 37s           physionet.org/files/i-care/   5%[===>                                                                        ]   1.26M  16.1KB/s    eta 25m 37s          physionet.org/files/i-care/2   5%[===>                                                                        ]   1.26M  15.4KB/s    eta 25m 30s         physionet.org/files/i-care/2.   5%[===>                                                                        ]   1.28M  15.4KB/s    eta 25m 27s        physionet.org/files/i-care/2.1   5%[===>                                                                        ]   1.30M  15.4KB/s    eta 25m 27s       physionet.org/files/i-care/2.1/   5%[===>                                                                        ]   1.31M  15.4KB/s    eta 25m 22s      physionet.org/files/i-care/2.1/t   5%[===>                                                                        ]   1.34M  16.2KB/s    eta 25m 22s     physionet.org/files/i-care/2.1/tr   5%[===>                                                                        ]   1.34M  15.5KB/s    eta 25m 15s    physionet.org/files/i-care/2.1/tra   5%[===>                                                                        ]   1.36M  15.5KB/s    eta 25m 15s   physionet.org/files/i-care/2.1/trai   6%[===>                                                                        ]   1.37M  15.4KB/s    eta 25m 10s  physionet.org/files/i-care/2.1/train   6%[===>                                                                        ]   1.41M  16.2KB/s    eta 24m 49s physionet.org/files/i-care/2.1/traini   6%[===>                                                                        ]   1.41M  15.4KB/s    eta 24m 49sphysionet.org/files/i-care/2.1/trainin   6%[===>                                                                        ]   1.42M  15.5KB/s    eta 25m 1s hysionet.org/files/i-care/2.1/training   6%[===>                                                                        ]   1.44M  15.3KB/s    eta 25m 0s ysionet.org/files/i-care/2.1/training/   6%[===>                                                                        ]   1.47M  16.1KB/s    eta 25m 0s sionet.org/files/i-care/2.1/training/0   6%[===>                                                                        ]   1.47M  15.4KB/s    eta 24m 53sionet.org/files/i-care/2.1/training/03   6%[===>                                                                        ]   1.48M  15.4KB/s    eta 24m 52sonet.org/files/i-care/2.1/training/031   6%[===>                                                                        ]   1.50M  15.5KB/s    eta 24m 52snet.org/files/i-care/2.1/training/0313   6%[====>                                                                       ]   1.51M  15.3KB/s    eta 24m 47set.org/files/i-care/2.1/training/0313/   6%[====>                                                                       ]   1.55M  16.1KB/s    eta 24m 29st.org/files/i-care/2.1/training/0313/0   6%[====>                                                                       ]   1.55M  15.4KB/s    eta 24m 29s.org/files/i-care/2.1/training/0313/03   6%[====>                                                                       ]   1.56M  15.4KB/s    eta 24m 39sorg/files/i-care/2.1/training/0313/031   6%[====>                                                                       ]   1.58M  15.3KB/s    eta 24m 38srg/files/i-care/2.1/training/0313/0313   7%[====>                                                                       ]   1.61M  16.1KB/s    eta 24m 38sg/files/i-care/2.1/training/0313/0313_   7%[====>                                                                       ]   1.61M  15.4KB/s    eta 24m 32s/files/i-care/2.1/training/0313/0313_0   7%[====>                                                                       ]   1.62M  15.4KB/s    eta 24m 31sfiles/i-care/2.1/training/0313/0313_00   7%[====>                                                                       ]   1.64M  15.4KB/s    eta 24m 28siles/i-care/2.1/training/0313/0313_001   7%[====>                                                                       ]   1.66M  15.3KB/s    eta 24m 27sles/i-care/2.1/training/0313/0313_001_   7%[====>                                                                       ]   1.69M  16.1KB/s    eta 24m 27ses/i-care/2.1/training/0313/0313_001_0   7%[====>                                                                       ]   1.69M  15.3KB/s    eta 24m 22ss/i-care/2.1/training/0313/0313_001_00   7%[====>                                                                       ]   1.70M  15.4KB/s    eta 24m 22s/i-care/2.1/training/0313/0313_001_004   7%[====>                                                                       ]   1.72M  15.3KB/s    eta 24m 18si-care/2.1/training/0313/0313_001_004_   7%[====>                                                                       ]   1.75M  16.1KB/s    eta 24m 18s-care/2.1/training/0313/0313_001_004_E   7%[====>                                                                       ]   1.75M  15.4KB/s    eta 24m 13scare/2.1/training/0313/0313_001_004_EE   7%[====>                                                                       ]   1.76M  15.3KB/s    eta 24m 12sare/2.1/training/0313/0313_001_004_EEG   7%[====>                                                                       ]   1.78M  15.3KB/s    eta 24m 12sre/2.1/training/0313/0313_001_004_EEG.   7%[====>                                                                       ]   1.80M  15.3KB/s    eta 24m 8s e/2.1/training/0313/0313_001_004_EEG.m   8%[=====>                                                                      ]   1.83M  16.1KB/s    eta 24m 8s /2.1/training/0313/0313_001_004_EEG.ma   8%[=====>                                                                      ]   1.84M  16.2KB/s    eta 23m 50s2.1/training/0313/0313_001_004_EEG.mat   8%[=====>                                                                      ]   1.84M  15.5KB/s    eta 23m 50s.1/training/0313/0313_001_004_EEG.mat    8%[=====>                                                                      ]   1.86M  15.4KB/s    eta 23m 59s1/training/0313/0313_001_004_EEG.mat     8%[=====>                                                                      ]   1.89M  16.2KB/s    eta 23m 59s/training/0313/0313_001_004_EEG.mat      8%[=====>                                                                      ]   1.89M  15.4KB/s    eta 23m 54straining/0313/0313_001_004_EEG.mat       8%[=====>                                                                      ]   1.91M  15.4KB/s    eta 23m 53sraining/0313/0313_001_004_EEG.mat        8%[=====>                                                                      ]   1.92M  15.4KB/s    eta 23m 53saining/0313/0313_001_004_EEG.mat         8%[=====>                                                                      ]   1.94M  15.4KB/s    eta 23m 49sining/0313/0313_001_004_EEG.mat          8%[=====>                                                                      ]   1.97M  16.2KB/s    eta 23m 35sning/0313/0313_001_004_EEG.mat           8%[=====>                                                                      ]   1.97M  15.4KB/s    eta 23m 35sing/0313/0313_001_004_EEG.mat            8%[=====>                                                                      ]   1.98M  15.5KB/s    eta 23m 43sng/0313/0313_001_004_EEG.mat             8%[=====>                                                                      ]   2.00M  15.4KB/s    eta 23m 42sg/0313/0313_001_004_EEG.mat              8%[=====>                                                                      ]   2.03M  16.2KB/s    eta 23m 42s/0313/0313_001_004_EEG.mat               8%[=====>                                                                      ]   2.03M  15.5KB/s    eta 23m 38s0313/0313_001_004_EEG.mat                9%[=====>                                                                      ]   2.06M  16.2KB/s    eta 23m 25s313/0313_001_004_EEG.mat                 9%[=====>                                                                      ]   2.06M  15.4KB/s    eta 23m 25s13/0313_001_004_EEG.mat                  9%[=====>                                                                      ]   2.08M  15.4KB/s    eta 23m 33s3/0313_001_004_EEG.mat                   9%[======>                                                                     ]   2.11M  16.2KB/s    eta 23m 20s/0313_001_004_EEG.mat                    9%[======>                                                                     ]   2.11M  15.5KB/s    eta 23m 20s0313_001_004_EEG.mat                     9%[======>                                                                     ]   2.12M  15.5KB/s    eta 23m 27s313_001_004_EEG.mat                      9%[======>                                                                     ]   2.14M  15.4KB/s    eta 23m 26s13_001_004_EEG.mat                       9%[======>                                                                     ]   2.17M  16.1KB/s    eta 23m 14s3_001_004_EEG.mat                        9%[======>                                                                     ]   2.17M  15.3KB/s    eta 23m 14s_001_004_EEG.mat                         9%[======>                                                                     ]   2.19M  15.3KB/s    eta 23m 22s001_004_EEG.mat                          9%[======>                                                                     ]   2.20M  15.2KB/s    eta 23m 22s01_004_EEG.mat                           9%[======>                                                                     ]   2.22M  15.2KB/s    eta 23m 19s1_004_EEG.mat                            9%[======>                                                                     ]   2.25M  16.0KB/s    eta 23m 7s _004_EEG.mat                             9%[======>                                                                     ]   2.25M  15.2KB/s    eta 23m 7s 004_EEG.mat                              9%[======>                                                                     ]   2.26M  15.3KB/s    eta 23m 14s04_EEG.mat                               9%[======>                                                                     ]   2.28M  15.2KB/s    eta 23m 13s4_EEG.mat                               10%[======>                                                                     ]   2.31M  16.0KB/s    eta 23m 13s_EEG.mat                                10%[======>                                                                     ]   2.31M  15.3KB/s    eta 23m 9s EEG.mat                                 10%[======>                                                                     ]   2.33M  15.3KB/s    eta 23m 8s EG.mat                                  10%[======>                                                                     ]   2.34M  15.2KB/s    eta 23m 8s G.mat                                   10%[======>                                                                     ]   2.36M  15.2KB/s    eta 23m 5s .mat                                    10%[======>                                                                     ]   2.39M  15.9KB/s    eta 23m 5s mat                                     10%[======>                                                                     ]   2.39M  15.2KB/s    eta 23m 1s at                                      10%[=======>                                                                    ]   2.41M  15.3KB/s    eta 23m 1s t                                       10%[=======>                                                                    ]   2.42M  15.2KB/s    eta 22m 58s                                        10%[=======>                                                                    ]   2.45M  16.0KB/s    eta 22m 58s                                     p  10%[=======>                                                                    ]   2.45M  15.3KB/s    eta 22m 55s                                    ph  10%[=======>                                                                    ]   2.48M  16.0KB/s    eta 22m 44s                                   phy  10%[=======>                                                                    ]   2.48M  15.3KB/s    eta 22m 44s                                  phys  10%[=======>                                                                    ]   2.50M  15.3KB/s    eta 22m 50s                                 physi  11%[=======>                                                                    ]   2.53M  16.1KB/s    eta 22m 50s                                physio  11%[=======>                                                                    ]   2.53M  15.4KB/s    eta 22m 47s                               physion  11%[=======>                                                                    ]   2.55M  15.5KB/s    eta 22m 47s                              physione  11%[=======>                                                                    ]   2.56M  15.3KB/s    eta 22m 44s                             physionet  11%[=======>                                                                    ]   2.59M  16.1KB/s    eta 22m 34s                            physionet.  11%[=======>                                                                    ]   2.59M  15.4KB/s    eta 22m 34s                           physionet.o  11%[=======>                                                                    ]   2.61M  15.4KB/s    eta 22m 40s                          physionet.or  11%[=======>                                                                    ]   2.62M  15.3KB/s    eta 22m 40s                         physionet.org  11%[=======>                                                                    ]   2.64M  15.3KB/s    eta 22m 37s                        physionet.org/  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 51m 31s                       physionet.org/f  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 51m 31s                      physionet.org/fi  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 51m 46s                     physionet.org/fil  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 51m 46s                    physionet.org/file  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 52m 0s                    physionet.org/files  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 52m 0s                   physionet.org/files/  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 7s                  physionet.org/files/i  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 7s                 physionet.org/files/i-  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 21s               physionet.org/files/i-c  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 21s              physionet.org/files/i-ca  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 36s             physionet.org/files/i-car  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 36s            physionet.org/files/i-care  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 50s           physionet.org/files/i-care/  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 87m 50s          physionet.org/files/i-care/2  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 5s          physionet.org/files/i-care/2.  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 5s         physionet.org/files/i-care/2.1  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 20s       physionet.org/files/i-care/2.1/  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 20s      physionet.org/files/i-care/2.1/t  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 35s     physionet.org/files/i-care/2.1/tr  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 35s    physionet.org/files/i-care/2.1/tra  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 49s   physionet.org/files/i-care/2.1/trai  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 88m 49s  physionet.org/files/i-care/2.1/train  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 89m 4s  physionet.org/files/i-care/2.1/traini  11%[=======>                                                                    ]   2.64M  --.-KB/s    eta 3h 33m physionet.org/files/i-care/2.1/trainin  11%[=======>                                                                    ]   2.64M  --.-KB/s    in 27m 55s 
+
+2026-04-02 19:34:59 (1.61 KB/s) - Read error at byte 2768519/23940024 (Operation timed out). Retrying.
+
+--2026-04-02 19:35:00--  (try: 2)  https://physionet.org/files/i-care/2.1/training/0313/0313_001_004_EEG.mat
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Network is unreachable.
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_002_005_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_002_005_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_002_005_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_002_005_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_003_006_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_003_006_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_003_006_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_003_006_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_004_007_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_004_007_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_004_007_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_004_007_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_005_008_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_005_008_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_005_008_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_005_008_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_006_009_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_006_009_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_006_009_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_006_009_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_007_010_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_007_010_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_007_010_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_007_010_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_008_011_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_008_011_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_008_011_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_008_011_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_009_012_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_009_012_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_009_012_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_009_012_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_010_013_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_010_013_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_010_013_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_010_013_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_011_014_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_011_014_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_011_014_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_011_014_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_012_015_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_012_015_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_012_015_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_012_015_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_013_016_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_013_016_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_013_016_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_013_016_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_014_017_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_014_017_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_014_017_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_014_017_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_015_018_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_015_018_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_015_018_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_015_018_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_016_019_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_016_019_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_016_019_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_016_019_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_017_020_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_017_020_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_017_020_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_017_020_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_018_021_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_018_021_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_018_021_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_018_021_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_019_022_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_019_022_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_019_022_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_019_022_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_020_023_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_020_023_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_020_023_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_020_023_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_021_024_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_021_024_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_021_024_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_021_024_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_022_025_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_022_025_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_022_025_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_022_025_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_023_026_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_023_026_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_023_026_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_023_026_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_024_027_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_024_027_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_024_027_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_024_027_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_025_028_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_025_028_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_025_028_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_025_028_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_026_029_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_026_029_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_026_029_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_026_029_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_027_030_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_027_030_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_027_030_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_027_030_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_028_031_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_028_031_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_028_031_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_028_031_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_029_032_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_029_032_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_029_032_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_029_032_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_030_033_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_030_033_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_030_033_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_030_033_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_031_034_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_031_034_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_031_034_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_031_034_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_032_035_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_032_035_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_032_035_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_032_035_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_033_036_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_033_036_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_033_036_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_033_036_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_034_037_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_034_037_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_034_037_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_034_037_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_035_038_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_035_038_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_035_038_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_035_038_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_036_039_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_036_039_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_036_039_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_036_039_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_037_040_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_037_040_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_037_040_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_037_040_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_038_041_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_038_041_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_038_041_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_038_041_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_039_042_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_039_042_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_039_042_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_039_042_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_040_043_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_040_043_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_040_043_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_040_043_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_041_044_ECG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_041_044_ECG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_041_044_EEG.hea
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/0313_041_044_EEG.mat
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+--2026-04-02 19:35:00--  https://physionet.org/files/i-care/2.1/training/0313/RECORDS
+Resolving physionet.org (physionet.org)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘physionet.org’
+FINISHED --2026-04-02 19:35:00--
+Total wall clock time: 29m 31s
+Downloaded: 5 files, 1.2M in 29m 26s (726 B/s)

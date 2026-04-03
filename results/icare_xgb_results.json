@@ -1,0 +1,9 @@
+{
+  "dataset": "I-CARE",
+  "task": "coma_outcome",
+  "auroc": 0.0,
+  "accuracy": 0.0,
+  "n_patients": 7,
+  "n_good": 3,
+  "n_poor": 4
+}

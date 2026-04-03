@@ -1,0 +1,10 @@
+{
+  "dataset": "I-CARE",
+  "task": "coma_outcome_segment_level",
+  "n_segments": 1000,
+  "n_per_class": 500,
+  "auroc_mean": 0.9962800000000002,
+  "auroc_std": 0.0023472537144501584,
+  "accuracy_mean": 0.977,
+  "accuracy_std": 0.0024494897427831805
+}

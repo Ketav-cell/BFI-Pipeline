@@ -1,0 +1,11 @@
+{
+  "dataset": "Sleep-EDF",
+  "task": "wake_vs_sleep_classification",
+  "n_subjects": 50,
+  "n_epochs": 1000,
+  "n_per_class": 500,
+  "auroc_mean": 0.9247799999999999,
+  "auroc_std": 0.018699775399720703,
+  "accuracy_mean": 0.858,
+  "accuracy_std": 0.019646882704388517
+}

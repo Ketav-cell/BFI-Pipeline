@@ -1,0 +1,2 @@
+bash: line 1: 20217 Terminated: 15          wget -r -N -c -np -q "https://physionet.org/files/i-care/2.1/training/$p/"
+bash: line 1: 20634 Terminated: 15          wget -r -N -c -np -q "https://physionet.org/files/i-care/2.1/training/$p/"

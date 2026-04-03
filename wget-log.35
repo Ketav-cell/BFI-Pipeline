@@ -1,0 +1,55 @@
+--2026-04-02 19:05:29--  https://physionet.org/files/i-care/2.1/training/0328/
+Resolving physionet.org (physionet.org)... 18.18.42.54
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:05:45--  (try: 2)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:06:02--  (try: 3)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:06:19--  (try: 4)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:06:38--  (try: 5)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:06:58--  (try: 6)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:07:19--  (try: 7)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:07:40--  (try: 8)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:08:03--  (try: 9)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:08:27--  (try:10)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:08:51--  (try:11)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:09:16--  (try:12)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:09:41--  (try:13)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Operation timed out.
+Retrying.
+
+--2026-04-02 19:13:51--  (try:14)  https://physionet.org/files/i-care/2.1/training/0328/
+Connecting to physionet.org (physionet.org)|18.18.42.54|:443... failed: Network is unreachable.

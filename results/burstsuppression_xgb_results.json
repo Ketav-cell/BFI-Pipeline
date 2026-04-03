@@ -1,0 +1,10 @@
+{
+  "dataset": "I-CARE",
+  "task": "burst_suppression_detection",
+  "n_segments": 178,
+  "n_per_class": 89,
+  "auroc_mean": 0.9993827160493828,
+  "auroc_std": 0.0012345679012345735,
+  "accuracy_mean": 0.9944444444444445,
+  "accuracy_std": 0.011111111111111117
+}

@@ -1,0 +1,6 @@
+physionet.org/
+*.edf
+*.mat
+bfi_env/
+__pycache__/
+.DS_Store

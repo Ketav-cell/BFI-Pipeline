@@ -1,4 +1,4 @@
-# BiLSTM-Framework
+# BFI Pipeline
 
 ## Acknowledgments
 Code development assisted by Claude (Anthropic). All experimental design, 
